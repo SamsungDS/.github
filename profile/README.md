@@ -3,7 +3,7 @@ SamsungDS GitHub Organization hosts all Open-Ecosystem activities within Samsung
 ## Where to Ask for Help
 If you want to contact us:
 - Join our Discord Channel: https://discord.gg/WvqcWQs3Nv
-- Contact us via email: gost.info <at> samsung.com
+- Contact us via email: gost.info [at] samsung.com
 
 <!--
 
