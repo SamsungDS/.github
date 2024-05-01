@@ -1,4 +1,11 @@
-SamsungDS GitHub Organization hosts all Open-Ecosystem activities within Samsung Device Solutions
+The SamsungDS GitHub Organization hosts Open-Ecosystem activities for Samsung Device Solutions.
+
+Samsung's Global Open-ecoSystem Team (GOST) is responsible for these activities. Our mission is to provide end-to-end solutions by using the Open-Ecosystem to support new hardware across different industries including Memory, Chip Design, and Chip Production. We look at the Open-Ecoystem as a combination of **Open-Source**, **Standards**, and **Industry Synergy**. GOST members include maintainers and contributors in several open-source projects, co-authors in standards bodies, and publishers and presenters at top academic and industry events. 
+
+The repositories in the SamsungDS GitHub Organization include:
+- Projects created by Samsung to address an industry need
+- Projects forked to facilitate open-development before upstreaming to mainline mailing lists (e.g., Linux Kernel)
+- Projects forked to facilitate PRs in GitHub
 
 ## Where to Ask for Help
 If you want to contact us:
